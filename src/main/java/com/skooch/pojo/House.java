@@ -32,4 +32,5 @@ public class House {
     private Integer businessCircleCode; //商圈
 
     private Long created; //创建时间
+    
 }
